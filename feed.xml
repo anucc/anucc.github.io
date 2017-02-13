@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://anucc.github.io' rel='self' type='application/rss+xml'/>
+<title>
+ANU Creative Code Group
+</title>
+<link>
+http://anucc.github.io
+</link>
+<description>
+Homepage for ANUCC - the ANU Creative Code research group
+</description>
+<lastBuildDate>
+Mon, 13 Feb 2017 11:17:31 +1100
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+http://anucc.github.io/posts/2017-01-18-a-new-addition/
+</guid>
+<link>
+http://anucc.github.io/posts/2017-01-18-a-new-addition/
+</link>
+<title>
+A new addition to the ANUCC group
+</title>
+<description>
+&lt;p&gt;Exciting news - Kieran Browne will be joining the ANUCC group in early 2017. I'll let him introduce himself soon, but it's great to have him and I'm excited about the stuff we've got planned for the new year.&lt;/p&gt;
+</description>
+<author>
+Ben Swift
+</author>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Wed, 18 Jan 2017 00:00:00 +1100
+</pubDate>
+</item>
+<item>
+<guid>
+http://anucc.github.io/posts/2016-10-31-welcome/
+</guid>
+<link>
+http://anucc.github.io/posts/2016-10-31-welcome/
+</link>
+<title>
+Welcome to the ANUCC homepage/blog
+</title>
+<description>
+&lt;p&gt;There's nothing here yet. But there will be soon. It'll be awesome.&lt;/p&gt;
+</description>
+<author>
+Ben Swift
+</author>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Fri, 01 Jan 2016 00:00:00 +1100
+</pubDate>
+</item>
+</channel>
+</rss>
